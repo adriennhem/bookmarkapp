@@ -1,6 +1,6 @@
 --- !ruby/object:Jumpstart::Configuration
-application_name: Bookmark
-business_name: Jumpstart Company, LLC
+application_name: Pintastic
+business_name: Pintastic Ltd
 domain: example.com
 support_email: support@example.com
 default_from_email: Jumpstart <support@example.com>
