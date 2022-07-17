@@ -33,6 +33,13 @@ module.exports = {
         danger: colors.red,
         "code-400": "#fefcf9",
         "code-600": "#3c455b",
+        'black-haze': {
+          '50': '#f7f7f7', 
+          '100': '#A8A9AA', 
+          '200': '#606262', 
+          '300': '#858271', 
+          '400': '#262727'
+        },
       },
       fontFamily: {
         sans: ['Inter', ...defaultTheme.fontFamily.sans],
@@ -44,3 +51,4 @@ module.exports = {
   future: {
   },
 }
+
